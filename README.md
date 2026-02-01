@@ -20,4 +20,4 @@
 <img width="1570" height="812" alt="image" src="https://github.com/user-attachments/assets/f1280806-624d-49be-8876-5ee38342a17b" />
 
 ## 📂 Files
-* [📓 Jupyter Notebook](./Task8_Decision_Tree.ipynb)
+* [📓 Jupyter Notebook](./Task_8.ipynb)
